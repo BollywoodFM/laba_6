@@ -1,5 +1,7 @@
 # laba_6
-# Цель работы 
+
+Цель работы:
+
 Научиться работать с LINQ средствами языка C#.
 
 # Задание №1
@@ -9,7 +11,9 @@
   Количество стран в коллекции.
   Первую найденную страну и название местности, в которых Description принимает значение: "clear sky","rain","few clouds"
   
-# Код задания №1
+#
+
+Код задания №1:
 ```
 using System.Net.Http.Headers;
 using System.Runtime.InteropServices.JavaScript;
